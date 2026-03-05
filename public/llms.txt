@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Experience luxury custom sports jersey design with JANGO&#39;s cutting-edge 3D studio. Create personalized football kits with professional-grade quality and sophisticated style.
+
+### Design Studio
+https://example.com/design-studio
+Unleash your creativity with JANGO&#39;s revolutionary 3D design studio. Craft bespoke football jerseys with real-time visualization, unlimited customization, and pro-level control.
+
+### Lookbook
+https://example.com/lookbook
+Explore stunning custom football jersey designs that blend athletic performance with luxury aesthetics. Get inspired by JANGO&#39;s curated collection of premium sportswear creations.
+
+### Contact
+https://example.com/contact
+Ready to create your signature sports apparel? Reach out to JANGO&#39;s design experts for personalized consultation, bulk orders, or custom project inquiries. Let&#39;s build together.
+
+### Products
+https://example.com/products
+Our Products - JANGO
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - JANGO
+
+### Category
+https://example.com/category/:slug
+Products - JANGO
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
